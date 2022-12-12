@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6d89b57d0fc63fa49a08b830b6965d9b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MADE Tommy Soft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c1c17d9a13e3374ea7401c66dfa8261, type: 3}
+  - {fileID: 12800000, guid: e155d64afb932f54d8449cfd4b2af2ce, type: 3}
+  - {fileID: 12800000, guid: 656b3ac41606e1b499480b474bcce453, type: 3}
+  - {fileID: 12800000, guid: 5131226d7db2f5f4b9d48538302c6dcc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
